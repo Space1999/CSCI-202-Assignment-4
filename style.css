@@ -1,0 +1,55 @@
+body{
+    margin: auto;
+}
+#chaos{
+    display: none;
+}
+#nav{
+    text-align: center;
+}
+.link{
+    display: inline-block;
+    font-size: 4em;
+    margin: 0 5vw;
+    width: 30vw;
+}
+.link:hover{
+    cursor: pointer;
+}
+#showOrder{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+#showChaos{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    color: white;
+}
+#order{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 60%;
+    margin: auto;
+    color: black;
+}
+#order p{
+    text-align: justify;
+}
+h1{
+    text-align: center;
+    margin-top: 100px;
+}
+#chaos{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+#chaos .left{
+    text-align: right;
+    width: 30%;
+    float: left;
+}
+#chaos .right{
+    text-align: right;
+    width: 60%;
+    margin-right: 5%;
+    float: right;
+}
